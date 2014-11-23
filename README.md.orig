@@ -4,6 +4,8 @@ This was created on 11/21. this will be first used to test before diving in to c
 This is changed from the local repo
 This is ok
 No Issues because of that
+<<<<<<< HEAD
 Testing merge tools
+=======
 Let me see if merging tool works
-
+>>>>>>> 914d6c036a33982e0daafbbffa56cf92b7e775bf
